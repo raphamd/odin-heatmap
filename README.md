@@ -2,19 +2,19 @@
 
 <section class="streak">
 
-    The Odin Project - Day 1:
+    The Odin Project - Day 2:
 
-      Introduction:
-        - How This Course Will Work
-        - Introduction to Web Development
-        - Motivation and Mindset
+      Git Basics:
+        - Introduction to Git
+        - Git Basics
 
-      Prerequisites:
-        - Computer Basics
-        - How Does the Web Work?
-        - Installation Overview
-        - Installations
-        - Text Editors
-        - Command Line Basics
-        - Setting up Git
+      HTML Foundations:
+        - Introduction to HTML and CSS
+        - Elements and Tags
+        - HTML Boilerplate
+        - Working with Text
+        - Lists
+        - Links and Images
+        - Commit Messages
+        - Project: Recipes
 </section>
