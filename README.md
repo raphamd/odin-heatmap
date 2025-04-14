@@ -2,19 +2,11 @@
 
 <section class="streak">
 
-    The Odin Project - Day 2:
+    The Odin Project - Day 3:
 
-      Git Basics:
-        - Introduction to Git
-        - Git Basics
+      CSS Foundations:
+        - Inspecting HTML and CSS
+        - The Box Model
+        - Block and Inline
 
-      HTML Foundations:
-        - Introduction to HTML and CSS
-        - Elements and Tags
-        - HTML Boilerplate
-        - Working with Text
-        - Lists
-        - Links and Images
-        - Commit Messages
-        - Project: Recipes
 </section>
