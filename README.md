@@ -2,11 +2,9 @@
 
 <section class="streak">
 
-    The Odin Project - Day 3:
+    The Odin Project - Day 4:
 
-      CSS Foundations:
-        - Inspecting HTML and CSS
-        - The Box Model
-        - Block and Inline
+      JavaScript Basics:
+        - Started Variables and Operators Relecture
 
 </section>
