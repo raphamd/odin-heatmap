@@ -2,9 +2,11 @@
 
 <section class="streak">
 
-    The Odin Project - Day 4:
+    The Odin Project - Day 5:
 
       JavaScript Basics:
-        - Started Variables and Operators Relecture
+        - Finished Variables and Operators Relecture
+        - Installing Node.js
+        - Finished Data Types and Conditionals Relecture
 
 </section>
